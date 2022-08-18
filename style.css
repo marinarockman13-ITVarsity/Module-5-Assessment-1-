@@ -31,8 +31,8 @@ h1{
     height: 66px ;
     margin: 143px ;
     z-index: 1000 ;
-    animation: spin-right 8s linear infinite ;
-    -webkit-animation:  spin-right 8s linear infinite ;
+    animation: spin-right 14s linear infinite ;
+    -webkit-animation:  spin-right 14s linear infinite ;
 }
 
 #neptune-orbit{
@@ -59,8 +59,8 @@ h1{
     height: 66px ;
     margin: 120px ;
     z-index: 1000 ;
-    animation: spin-right 8s linear infinite ;
-    -webkit-animation:  spin-right 8s linear infinite ;
+    animation: spin-right 15s linear infinite ;
+    -webkit-animation:  spin-right 15s linear infinite ;
 }
 
 #uranus-orbit{
